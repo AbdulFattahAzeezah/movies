@@ -2,7 +2,6 @@ import styled from 'styled-components';
 
 export const Image = styled.img`
     width: 100%;
-    height:300px;
     max-width: 720px;
     transition: all .3s;
     object-fit:cover;
